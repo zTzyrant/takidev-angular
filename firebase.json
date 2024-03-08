@@ -1,0 +1,11 @@
+{
+  "hosting": [
+    {
+      "target": "takidev-angular",
+      "source": ".",
+      "frameworksBackend": {
+        "region": "asia-east1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+:root {
+  --bg-primary: #f5f5f5;
+  --bg-secondary: #e5e5e5;
+  --text-primary: #1e1e1e;
+  --text-secondary: #2e2e2e;
+}
+
+html[data-theme="dark"] {
+  --bg-primary: #1e1e1e;
+  --bg-secondary: #2e2e2e;
+  --text-primary: #f5f5f5;
+  --text-secondary: #c5c5c5;
+}

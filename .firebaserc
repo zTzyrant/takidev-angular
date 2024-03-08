@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "taki-base": {
+      "hosting": {
+        "takidev-angular": [
+          "taki-base"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "taki-base"
+  }
+}
